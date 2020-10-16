@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1602816537120" clover="3.2.0">
+  <project timestamp="1602816537120" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="6" coveredelements="6" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="problem-1.js" path="D:\All_IBG\1_Assignments_From_Resources_Tab\Exercises from Basic JS LinkedIn Lessons\2. FirstStepCoding\$Lesson3.4_ReviewMaterial\problem-1.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="22" count="5" type="stmt"/>
+      <line num="25" count="5" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

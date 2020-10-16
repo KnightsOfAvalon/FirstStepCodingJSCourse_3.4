@@ -1,0 +1,23 @@
+{
+  "name": "lesson3.4_reviewmaterial",
+  "version": "1.0.0",
+  "description": "Simple JS functions",
+  "main": "problem-1.js",
+  "dependencies": {
+    "jest": "^26.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnightsOfAvalon/FirstStepCodingJSCourse_3.4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnightsOfAvalon/FirstStepCodingJSCourse_3.4/issues"
+  },
+  "homepage": "https://github.com/KnightsOfAvalon/FirstStepCodingJSCourse_3.4#readme"
+}

@@ -25,5 +25,7 @@ function total_characters(stringArray) {
   return characterSum;
 }
 
+module.exports = total_characters;
+
 console.log(total_characters(["you", "can", "do", "this"]));
 console.log(total_characters(["you", "did", "it"]));
